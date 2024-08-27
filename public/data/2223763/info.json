@@ -1,0 +1,9 @@
+{
+  "nombre": "Ana Sofía Cantillo Bolaños",
+  "edad": 19,
+  "carrera": "Tecnología en Desarrollo de Software",
+  "semestre": 6,
+  "gustos": ["Instrumentos", "Cantar", "Dibujar", "Ballet", "Hamsters"],
+  "noGustos": ["Pescado", "Reggeaton", "Ruido", "Mío"],
+  "foto": "https://lh3.googleusercontent.com/a/ACg8ocIRbWSn27wAF49m4ja5gKuOl_maV8pWEJX0gPhxKyLUQvJKWlQ=s288-c-no"
+}
