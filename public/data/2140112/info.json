@@ -3,7 +3,7 @@
     "edad": 22,
     "carrera": "Ingeniería de Sistemas",
     "semestre": 6,
-    "gustos": ["Lectura", "Cine", "MMA", "Música", "Matemáticas", "Programación", "Montañas"],
+    "gustos": ["Lectura", "Cine", "MMA", "Música", "Matemáticas", "Programación", "Bosques"],
     "noGustos": ["Tares largas", "Calor"],
     "foto": "https://lh6.googleusercontent.com/0jCqWtbw_QU3m5ZF4668XnRWGhmepzV23_brx5t_kd0LHAuiKMDM2VnPmRB3GpwTpDzyJGFDaA-tJlcR3q8jynn9W_OfGr56KfXsgL6rB99qQOgJB2qn-H4Ya76F1oukjQ=w1280"
 }
