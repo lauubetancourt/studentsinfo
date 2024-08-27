@@ -1,0 +1,9 @@
+{
+    "nombre": "Cristian David Pacheco Torres",
+    "edad": 30,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 6,
+    "gustos": ["Literatura", "Matematicas", "Viajes", "Vino"],
+    "noGustos": ["", "El pero.."],
+    "foto": ""
+}
