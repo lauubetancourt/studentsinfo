@@ -1,0 +1,9 @@
+{
+    "nombre":"Jhoan Felipe Leon",
+	"edad":29,
+	"carrera":"Ingenieria de Sistemas",
+	"semestre":6,
+	"gustos": ["Futbol","Comer","Cine"],
+    "noGustos": ["Dormir", "Ver peliculas de drama"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJuiZKmXogZ3ehDb-DzBoABKzeiRitjUTcM7y1R40rY0uWA3lCGrQ=s314-c-no"
+}
