@@ -3,7 +3,7 @@
     "edad": 27,
     "carrera": "Ingeniería de Sistemas",
     "semestre": 6,
-    "gustos": ["Lectura", "Cine", "Música", "Física", "Química", "Programación"],
-    "noGustos": ["Perder tiempo", "Calor"],
+    "gustos": ["Frijoles", "Cine", "Música", "Física", "Videojuegos", "Programación"],
+    "noGustos": ["Perder tiempo", "Calor", "Perderme las clases"],
     "foto": "https://lh4.googleusercontent.com/Ths7imntW-uuVYXbTTnCI_B68VHxmlghIg1BXDbsRvZPC7euIDP-KW6tQHvTjmUuJroESuenHXknZ_5HY2aJsH4UCGP44N6UawSgvZhlJVqMfSRK8D1nxOo3Rna1NSDIuA=w1280"
 }
