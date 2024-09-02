@@ -1,0 +1,9 @@
+{
+    "nombre": "Andrés Camilo Henao",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Motos", "Películas", "Comida"],
+    "noGustos": ["lol"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocI2x3saJ9nLMSYPoVpwhEY-M1-zj3PDgkhwKq30cVS1qDty0WgUg=s96-c-br100-rg-mo"
+}
