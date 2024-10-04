@@ -5,5 +5,6 @@
     "semestre": 6,
     "gustos": ["Frijoles", "Cine", "Música", "Física", "Videojuegos", "Programación"],
     "noGustos": ["Perder tiempo", "Calor", "Perderme las clases"],
-    "foto": "https://lh4.googleusercontent.com/Ths7imntW-uuVYXbTTnCI_B68VHxmlghIg1BXDbsRvZPC7euIDP-KW6tQHvTjmUuJroESuenHXknZ_5HY2aJsH4UCGP44N6UawSgvZhlJVqMfSRK8D1nxOo3Rna1NSDIuA=w1280"
+    "foto": "https://lh4.googleusercontent.com/Ths7imntW-uuVYXbTTnCI_B68VHxmlghIg1BXDbsRvZPC7euIDP-KW6tQHvTjmUuJroESuenHXknZ_5HY2aJsH4UCGP44N6UawSgvZhlJVqMfSRK8D1nxOo3Rna1NSDIuA=w1280",
+    "redSocial": "https://www.facebook.com/julian.puyo"
 }
