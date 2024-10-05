@@ -5,5 +5,6 @@
     "semestre": 6,
     "gustos": ["Literatura", "Matematicas", "Viajes", "Vino"],
     "noGustos": ["", "Perder el tiempo"],
-    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKH1Z_9ktPO19ABhScRcTkVTnjj5SoPc0753lhQPJxGdDE0uw=s346-c-no"
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKH1Z_9ktPO19ABhScRcTkVTnjj5SoPc0753lhQPJxGdDE0uw=s346-c-no",
+    "redSocial": "https://www.linkedin.com/in/cristian-david-pacheco-torres-0859ba110/"
 }

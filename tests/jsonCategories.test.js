@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { processInfoJsonFiles } = require('./test_utils');
 
 const dataFolderPath = path.join(__dirname, '../public/data');
 
@@ -25,3 +26,16 @@ describe('Verify JSON structure in data folders', () => {
     }
   });
 });
+
+
+describe('JSON object property check in info.json files', () => {
+  
+  test('Check if all info.json files have the required properties', async () => {
+      const results = await processInfoJsonFiles(dataFolderPath, requiredCategories);
+      results.forEach(result => {
+          expect(result.hasProps).toBe(true);
+      });
+  }, 5000);
+
+});
+
