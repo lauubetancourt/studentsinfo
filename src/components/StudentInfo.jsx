@@ -66,6 +66,7 @@ function StudentInfo() {
                     <Card.Text>Semestre: {student.semestre}</Card.Text>
                     <Card.Text>Gustos: {student.gustos.join(', ')}</Card.Text>
                     <Card.Text>No le gusta: {Array.isArray(student.noGustos) && student.noGustos.length > 0 ? student.noGustos.join(', ') : 'Información no disponible'}</Card.Text>
+                    <Card.Text>Red social: <a target='_blank' href={student.redSocial}>{student.redSocial}</a></Card.Text>
                   </Col>
                 </Row>
               </Card.Body>
